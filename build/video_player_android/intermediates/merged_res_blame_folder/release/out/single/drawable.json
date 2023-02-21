@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\5a4ea353c7173cecffad15020bec8e3e\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\5a4ea353c7173cecffad15020bec8e3e\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\5a4ea353c7173cecffad15020bec8e3e\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\5a4ea353c7173cecffad15020bec8e3e\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    }
+]

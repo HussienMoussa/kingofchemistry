@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\drawable_launch_background.xml.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\drawable_ic_push.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\drawable\\ic_push.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\xml_network_security.xml.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\xml\\network_security.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\app\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\AppReSkin\\masterstudyapplication-release\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

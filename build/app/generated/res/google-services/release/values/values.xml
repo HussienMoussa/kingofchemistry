@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">20476335429-1dvnm7l7cggq1na9g4n6g4pkpj998n5r.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">20476335429</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZ7UNuota9GAXplNusiRMqs7jIk3bwt1w</string>
+    <string name="google_app_id" translatable="false">1:20476335429:android:b13f9628eed94833659a2c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZ7UNuota9GAXplNusiRMqs7jIk3bwt1w</string>
+    <string name="google_storage_bucket" translatable="false">kingofchemistry-5f377.appspot.com</string>
+    <string name="project_id" translatable="false">kingofchemistry-5f377</string>
+</resources>

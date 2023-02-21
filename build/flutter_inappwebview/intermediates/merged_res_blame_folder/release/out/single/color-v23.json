@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\3e0c376385758ccb75c58762bb51ff7b\\transformed\\appcompat-1.5.1\\res\\color-v23\\abc_tint_default.xml"
+    }
+]

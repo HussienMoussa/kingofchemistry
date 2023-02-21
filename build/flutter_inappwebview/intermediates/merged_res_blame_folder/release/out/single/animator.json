@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\dc8cb71943cf004d8c48376d2f83c8e8\\transformed\\fragment-1.3.6\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\dc8cb71943cf004d8c48376d2f83c8e8\\transformed\\fragment-1.3.6\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\dc8cb71943cf004d8c48376d2f83c8e8\\transformed\\fragment-1.3.6\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\dc8cb71943cf004d8c48376d2f83c8e8\\transformed\\fragment-1.3.6\\res\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\dc8cb71943cf004d8c48376d2f83c8e8\\transformed\\fragment-1.3.6\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\dc8cb71943cf004d8c48376d2f83c8e8\\transformed\\fragment-1.3.6\\res\\animator\\fragment_close_exit.xml"
+    }
+]

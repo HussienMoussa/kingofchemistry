@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\e9dd130f81706ec795925afb9548f26e\\transformed\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\e9dd130f81706ec795925afb9548f26e\\transformed\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\e9dd130f81706ec795925afb9548f26e\\transformed\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\e9dd130f81706ec795925afb9548f26e\\transformed\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

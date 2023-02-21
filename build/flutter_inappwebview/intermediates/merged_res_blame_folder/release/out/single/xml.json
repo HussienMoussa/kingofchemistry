@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\hussi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview-5.7.1\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "G:\\AppReSkin\\masterstudyapplication-release\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\image_share_filepaths.xml",
+        "source": "C:\\Users\\hussi\\.gradle\\caches\\transforms-3\\9702409c19eda44d51492cefa792aaa9\\transformed\\browser-1.4.0\\res\\xml\\image_share_filepaths.xml"
+    }
+]

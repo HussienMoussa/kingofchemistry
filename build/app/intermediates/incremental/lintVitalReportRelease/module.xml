@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="G:\AppReSkin\masterstudyapplication-release\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.3"
+    buildFolder="G:\AppReSkin\masterstudyapplication-release\build\app"
+    bootClassPath="C:\Users\hussi\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\hussi\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
